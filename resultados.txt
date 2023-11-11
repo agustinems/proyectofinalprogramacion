@@ -1,0 +1,160 @@
+Numero de Inscripcion: 20
+Nombre: Fabian
+Categoria: 2
+Subcategoria: 2
+Tiros en el Centro: 10
+Tiros Fuera del Centro: 9
+Puntos: 145
+----------------------------------
+Numero de Inscripcion: 6
+Nombre: Paola
+Categoria: 0
+Subcategoria: 2
+Tiros en el Centro: 9
+Tiros Fuera del Centro: 8
+Puntos: 130
+----------------------------------
+Numero de Inscripcion: 13
+Nombre: Armando
+Categoria: 2
+Subcategoria: 2
+Tiros en el Centro: 8
+Tiros Fuera del Centro: 10
+Puntos: 130
+----------------------------------
+Numero de Inscripcion: 19
+Nombre: Javier
+Categoria: 0
+Subcategoria: 1
+Tiros en el Centro: 8
+Tiros Fuera del Centro: 7
+Puntos: 115
+----------------------------------
+Numero de Inscripcion: 10
+Nombre: Carlos
+Categoria: 0
+Subcategoria: 0
+Tiros en el Centro: 7
+Tiros Fuera del Centro: 8
+Puntos: 110
+----------------------------------
+Numero de Inscripcion: 11
+Nombre: Adabel
+Categoria: 0
+Subcategoria: 1
+Tiros en el Centro: 7
+Tiros Fuera del Centro: 8
+Puntos: 110
+----------------------------------
+Numero de Inscripcion: 8
+Nombre: Alberto
+Categoria: 0
+Subcategoria: 2
+Tiros en el Centro: 7
+Tiros Fuera del Centro: 3
+Puntos: 85
+----------------------------------
+Numero de Inscripcion: 5
+Nombre: Candelaria
+Categoria: 0
+Subcategoria: 2
+Tiros en el Centro: 8
+Tiros Fuera del Centro: 0
+Puntos: 80
+----------------------------------
+Numero de Inscripcion: 1
+Nombre: Pedro
+Categoria: 2
+Subcategoria: 1
+Tiros en el Centro: 3
+Tiros Fuera del Centro: 9
+Puntos: 75
+----------------------------------
+Numero de Inscripcion: 9
+Nombre: Ricardo
+Categoria: 1
+Subcategoria: 2
+Tiros en el Centro: 5
+Tiros Fuera del Centro: 3
+Puntos: 65
+----------------------------------
+Numero de Inscripcion: 4
+Nombre: Susana
+Categoria: 1
+Subcategoria: 0
+Tiros en el Centro: 2
+Tiros Fuera del Centro: 8
+Puntos: 60
+----------------------------------
+Numero de Inscripcion: 18
+Nombre: Ornella
+Categoria: 1
+Subcategoria: 1
+Tiros en el Centro: 6
+Tiros Fuera del Centro: 0
+Puntos: 60
+----------------------------------
+Numero de Inscripcion: 12
+Nombre: Cecilia
+Categoria: 0
+Subcategoria: 1
+Tiros en el Centro: 3
+Tiros Fuera del Centro: 5
+Puntos: 55
+----------------------------------
+Numero de Inscripcion: 3
+Nombre: Anibal
+Categoria: 0
+Subcategoria: 2
+Tiros en el Centro: 2
+Tiros Fuera del Centro: 5
+Puntos: 45
+----------------------------------
+Numero de Inscripcion: 7
+Nombre: Cesar
+Categoria: 0
+Subcategoria: 2
+Tiros en el Centro: 4
+Tiros Fuera del Centro: 1
+Puntos: 45
+----------------------------------
+Numero de Inscripcion: 16
+Nombre: Juana
+Categoria: 0
+Subcategoria: 0
+Tiros en el Centro: 1
+Tiros Fuera del Centro: 7
+Puntos: 45
+----------------------------------
+Numero de Inscripcion: 2
+Nombre: Juan
+Categoria: 0
+Subcategoria: 0
+Tiros en el Centro: 2
+Tiros Fuera del Centro: 3
+Puntos: 35
+----------------------------------
+Numero de Inscripcion: 14
+Nombre: Sergio
+Categoria: 1
+Subcategoria: 2
+Tiros en el Centro: 2
+Tiros Fuera del Centro: 1
+Puntos: 25
+----------------------------------
+Numero de Inscripcion: 17
+Nombre: Ana
+Categoria: 1
+Subcategoria: 1
+Tiros en el Centro: 0
+Tiros Fuera del Centro: 5
+Puntos: 25
+----------------------------------
+Numero de Inscripcion: 15
+Nombre: Jose
+Categoria: 0
+Subcategoria: 0
+Tiros en el Centro: 0
+Tiros Fuera del Centro: 1
+Puntos: 5
+----------------------------------
